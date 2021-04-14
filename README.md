@@ -9,7 +9,7 @@ Youtube Livestream Viewbot application developed in C#.
 
 ## Usage
 
-Run the compiled EXE
+Run the compiled EXE.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
