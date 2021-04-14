@@ -4,7 +4,7 @@ Youtube Livestream Viewbot application developed in C#.
 
 ## Prerequisites
 
-* [Visual Studio 2019 IDE](https://visualstudio.microsoft.com/vs/) is IDE from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
+* [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) is an IDE from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
